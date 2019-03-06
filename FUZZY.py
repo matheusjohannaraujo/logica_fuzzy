@@ -1,10 +1,3 @@
-"""
-IPESU/FAREC
-Turma: Ciência da Computação - 6º Período Noite
-Professor: Tennyson Accetti
-Estudantes: Júlio César Cavalcanti, Matheus Johann Araújo e Jeyson Carlos Amaral de Oliveira.
-"""
-
 import math
 
 def sigmoide(x, a, c):
