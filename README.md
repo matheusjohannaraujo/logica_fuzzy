@@ -1,7 +1,7 @@
 https://github.com/matheusjohannaraujo/logica_fuzzy
 
-IPESU/FAREC
-Turma: Ciência da Computação - 6º Período Noite
-Disciplina: Sistemas de Informações Inteligentes
-Professor: Tennyson Accetti Resende Filho
+IPESU<br>
+Turma: Ciência da Computação - 6º Período Noite<br>
+Disciplina: Sistemas de Informações Inteligentes<br>
+Professor: Tennyson Accetti Resende Filho<br>
 Estudantes: Júlio César Cavalcanti, Matheus Johann Araújo e Jeyson Carlos Amaral de Oliveira.
